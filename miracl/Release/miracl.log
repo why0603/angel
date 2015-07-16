@@ -1,0 +1,118 @@
+﻿生成启动时间为 2013/2/7 15:20:45。
+     1>项目“D:\windows\cysoft\miracl\miracl.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\miracl.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt mraes.c mralloc.c mrarth0.c mrarth1.c mrarth2.c mrarth3.c mrbits.c mrbrick.c mrbuild.c mrcore.c mrcrt.c mrcurve.c mrdouble.c mrebrick.c mrec2m.c mrecn2.c mrfast.c mrflash.c mrflsh1.c mrflsh2.c mrflsh3.c mrflsh4.c mrfrnd.c mrgcd.c mrgcm.c mrgf2m.c mrio1.c mrio2.c mrjack.c mrlucas.c mrmonty.c mrmuldv.c mrpi.c mrpower.c mrprime.c mrrand.c mrround.c mrscrt.c mrshs.c mrshs256.c mrshs512.c mrsmall.c mrsroot.c mrstrong.c mrxgcd.c mrzzn2.c mrzzn2b.c mrzzn3.c
+         mraes.c
+         mralloc.c
+         mrarth0.c
+         mrarth1.c
+         mrarth2.c
+         mrarth3.c
+         mrbits.c
+         mrbrick.c
+         mrbuild.c
+         mrcore.c
+         mrcrt.c
+         mrcurve.c
+         mrdouble.c
+         mrebrick.c
+         mrec2m.c
+         mrecn2.c
+         mrfast.c
+         mrflash.c
+         mrflsh1.c
+         mrflsh2.c
+         正在编译...
+         mrflsh3.c
+         mrflsh4.c
+         mrfrnd.c
+         mrgcd.c
+         mrgcm.c
+         mrgf2m.c
+     1>mrgf2m.c(350): warning C4101: “k”: 未引用的局部变量
+     1>mrgf2m.c(612): warning C4101: “r”: 未引用的局部变量
+     1>mrgf2m.c(612): warning C4101: “t”: 未引用的局部变量
+     1>mrgf2m.c(611): warning C4101: “j”: 未引用的局部变量
+         mrio1.c
+         mrio2.c
+         mrjack.c
+         mrlucas.c
+         mrmonty.c
+         mrmuldv.c
+         mrpi.c
+         mrpower.c
+         mrprime.c
+         mrrand.c
+         mrround.c
+         mrscrt.c
+         mrshs.c
+         mrshs256.c
+         正在编译...
+         mrshs512.c
+         mrsmall.c
+         mrsroot.c
+         mrstrong.c
+         mrxgcd.c
+         mrzzn2.c
+         mrzzn2b.c
+         mrzzn3.c
+       Lib:
+         d:\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"D:\windows\cysoft\Release\miracl.lib" /NOLOGO /LTCG Release\mraes.obj
+         Release\mralloc.obj
+         Release\mrarth0.obj
+         Release\mrarth1.obj
+         Release\mrarth2.obj
+         Release\mrarth3.obj
+         Release\mrbits.obj
+         Release\mrbrick.obj
+         Release\mrbuild.obj
+         Release\mrcore.obj
+         Release\mrcrt.obj
+         Release\mrcurve.obj
+         Release\mrdouble.obj
+         Release\mrebrick.obj
+         Release\mrec2m.obj
+         Release\mrecn2.obj
+         Release\mrfast.obj
+         Release\mrflash.obj
+         Release\mrflsh1.obj
+         Release\mrflsh2.obj
+         Release\mrflsh3.obj
+         Release\mrflsh4.obj
+         Release\mrfrnd.obj
+         Release\mrgcd.obj
+         Release\mrgcm.obj
+         Release\mrgf2m.obj
+         Release\mrio1.obj
+         Release\mrio2.obj
+         Release\mrjack.obj
+         Release\mrlucas.obj
+         Release\mrmonty.obj
+         Release\mrmuldv.obj
+         Release\mrpi.obj
+         Release\mrpower.obj
+         Release\mrprime.obj
+         Release\mrrand.obj
+         Release\mrround.obj
+         Release\mrscrt.obj
+         Release\mrshs.obj
+         Release\mrshs256.obj
+         Release\mrshs512.obj
+         Release\mrsmall.obj
+         Release\mrsroot.obj
+         Release\mrstrong.obj
+         Release\mrxgcd.obj
+         Release\mrzzn2.obj
+         Release\mrzzn2b.obj
+         Release\mrzzn3.obj
+         miracl.vcxproj -> D:\windows\cysoft\Release\miracl.lib
+       FinalizeBuildStatus:
+         正在删除文件“Release\miracl.unsuccessfulbuild”。
+         正在对“Release\miracl.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\windows\cysoft\miracl\miracl.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.36
